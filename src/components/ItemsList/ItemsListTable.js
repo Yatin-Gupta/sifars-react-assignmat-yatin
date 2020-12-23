@@ -110,7 +110,7 @@ export default function ItemsListTable(props) {
                     <tr>
                         <th>
                             <div className="w-100 d-flex justify-content-center align-items-center">
-                                <Form.Check aria-label="Select All Items" checked={itemsSelected.length === itemIds.length} onChange={(evt) => {
+                                <Form.Check aria-label="Select All Items" checked={itemIds.length > 0 && itemsSelected.length === itemIds.length} onChange={(evt) => {
                                     evt.target.checked?setItemsSelected([...itemIds]):setItemsSelected([]);
                                 }} />
                             </div>
