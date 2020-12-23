@@ -60,24 +60,48 @@ Here provided overview of important directories:
 
 #### Complete App Screenshot
 
+![Complete App Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/1-complete-app.PNG)
+
 #### Select All Items Screenshot
+
+![Select All Items Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/2-select-all-items.PNG)
 
 #### Unselect few items Screenshot
 
+![Unselect few items Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/3-unselect-few-items.PNG)
+
 #### Remove Items Modal Screenshot
+
+![Remove Items Modal Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/4-remove-items-modal.PNG)
 
 #### Items Removed Screenshot
 
+![Items Removed Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/5-items-removed.PNG)
+
 #### Reset Items Modal Screenshot
+
+![Reset Items Modal Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/6-reset-items-modal.PNG)
 
 #### Items Reset And Tooltip on Hovering Logo Screenshot
 
+![Items Reset And Tooltip on Hovering Logo Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/7-items-reset-and-hover-on-logo.png)
+
 #### Search Item Screenshot
+
+![Search Item Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/8-search-item-7.PNG)
 
 #### Update Item Price Screenshot
 
+![Update Item Price Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/9-update-price-to-1500-of-item-7.png)
+
 #### Price Updated And Get all items when search is reset Screenshot
+
+![Price Updated And Get all items when search is reset Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/10-price-updated-and-get-all-items-on-empty-search.png)
 
 #### No Item Present Screenshot
 
+![No Item Present Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/11-no-item-present.PNG)
+
 #### Mobile View Screenshot
+
+![Mobile View Screenshot](https://github.com/Yatin-Gupta/sifars-react-assignmat-yatin/blob/master/screenshots/12-mobile_(iPhone%20X).png)
